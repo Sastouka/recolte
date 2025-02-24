@@ -1,4 +1,4 @@
-# Gestion des Récoltes - ENNAJIHI NAWFAL
+# Gestion des Récoltes
 
 Cette application Flask permet de gérer la saisie des bons de livraison, la génération de rapports PDF, l'analyse statistique des récoltes et inclut un système d'activation avec période d'essai et achat de plans via PayPal.
 
